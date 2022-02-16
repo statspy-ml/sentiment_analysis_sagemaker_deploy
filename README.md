@@ -3,7 +3,7 @@
 The notebook and Python files provided here, once completed, result in a simple web app which interacts with a deployed recurrent neural network performing sentiment analysis on movie reviews. This project assumes some familiarity with SageMaker, the mini-project, Sentiment Analysis using XGBoost, should provide enough background.
 
 
-## Project Information
+## Project Informations
 
 ### Contents
 
@@ -18,7 +18,7 @@ The notebook and Python files provided here, once completed, result in a simple 
 - Step 6 (again): Deploy the model for the web app
 - Step 7 (again): Use the model for the web app
 
-### Cloud and Libraries
+### AWS Cloud and Libraries
 
 AWS SageMaker, Lambda Function , REST API
 pytorch LSTM classifier
